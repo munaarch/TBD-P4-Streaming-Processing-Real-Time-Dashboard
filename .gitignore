@@ -1,6 +1,10 @@
 venv/
 __pycache__/
-*.pyc
+
+data/
+stream_data/
 logs/
-data/clean/
-data/curated/
+
+*.csv
+*.parquet
+*.crc
